@@ -11,6 +11,8 @@
     {% endif %}
   </title>
 
+  {% if site.google_ad_client %}{% include google_analytics.html %}{% endif %}
+
   {% seo title=false %}
   {% feed_meta %}
 
