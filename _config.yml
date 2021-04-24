@@ -1,8 +1,8 @@
-title: Moonwalk
+title: About
 author: Mocanu Gabriel
 url: https://www.abhinavsaxena.com/moonwalk # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
+  I started this blog in order to explore as many things as possible. There will be technical posts, explained in detail. If you have any questions about these you can contact me by email.
 
 permalink: /:slug.html
 
@@ -14,8 +14,6 @@ google_tracking_id: G-MZRT4GPY0G
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
 remote_theme: abhinavs/moonwalk
 
-soopr:
-  publish-token: "pt_a37510e65bb7a00c150c3877884ff08e" 
 
 theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
@@ -39,7 +37,7 @@ theme_config:
     title_old_projects: Old Projects
 
 soopr:
-  publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
+  publish-token: "pt_a37510e65bb7a00c150c3877884ff08e" 
 
 highlighter: rouge
 
