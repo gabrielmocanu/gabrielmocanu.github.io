@@ -34,14 +34,11 @@ project_entries:
     desc: Teaching assembly language
 
 footer_entries:
-  - title: twitter
-    url: https://twitter.com/abhinav
+  - title: linkedin
+    url: https://www.linkedin.com/in/gabriel-mocanu/
 
   - title: github
-    url: https://github.com/abhinavs
-
-  - title: feed
-    url: feed.xml
+    url: https://github.com/gabrielmocanu
 
 misc_entries:
   - title: this is an example vertical list
