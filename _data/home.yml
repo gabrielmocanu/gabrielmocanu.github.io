@@ -7,30 +7,30 @@ navbar_entries:
 
 project_entries:
   - title: Unikraft
-    url: 
+    url: unikraft
     desc: Unikraft is an automated system for building unikernels
     highlight: WIP
 
   - title: Uniprof
-    url: 
+    url: uniprof
     desc: Uniprof is a profiling tool for unikernel on Xen environment
     highlight: WIP
 
   - title: Templates
-    url: 
+    url: templates
     desc: Templates for development and configure environment
     highlight: WIP
 
   - title: Web Security
-    url: 
+    url: web-security
     desc: Summer school for web security
 
   - title: Exploit
-    url: 
+    url: exploit
     desc: Summer school for web exploit
 
   - title: Assembly Language
-    url: 
+    url: assembly
     desc: Teaching assembly language
 
 footer_entries:
