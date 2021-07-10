@@ -29,9 +29,9 @@ project_entries:
     url: exploit
     desc: Summer school for web exploit
 
-  - title: Assembly Language
-    url: assembly
-    desc: Teaching assembly language
+  - title: Teaching
+    url: teaching
+    desc: Teaching some courses in my faculty 
 
 footer_entries:
   - title: linkedin
