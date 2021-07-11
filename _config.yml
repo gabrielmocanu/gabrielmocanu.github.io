@@ -6,7 +6,7 @@ description: > # description of the site (multiple lines allowed)
 
 permalink: /:slug.html
 
-favicon: "logo.png" # relative path to site's favicon
+favicon: "./logo.png" # relative path to site's favicon
 
 google_ad_client: ca-pub-2961635126734312
 google_tracking_id: G-MZRT4GPY0G
