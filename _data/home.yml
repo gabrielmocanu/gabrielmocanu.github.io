@@ -7,7 +7,7 @@ navbar_entries:
 
 project_entries:
   - title: Unikraft
-    url: overview-post
+    url: unikraft
     desc: Unikraft is an automated system for building unikernels
     highlight: WIP
 
@@ -21,13 +21,13 @@ project_entries:
     desc: Templates for development and configure environment
     highlight: WIP
 
-  - title: Web Security
-    url: web-security
-    desc: Summer school for web security
-
-  - title: Exploit
-    url: exploit
+  - title: Web Exploit
+    url: web-exploit
     desc: Summer school for web exploit
+
+  - title: Binary Exploit
+    url: binary-exploit
+    desc: Summer school for binary exploit
 
   - title: Teaching
     url: teaching
