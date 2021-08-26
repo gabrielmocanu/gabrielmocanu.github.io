@@ -11,6 +11,10 @@ favicon: "./avatar.png" # relative path to site's favicon
 google_ad_client: ca-pub-2961635126734312
 google_tracking_id: G-MZRT4GPY0G
 
+twitter:
+    username: abhinav # update or delete this
+    card: summary_large_image
+
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
 remote_theme: abhinavs/moonwalk
 
@@ -46,4 +50,4 @@ sass:
 
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
+  - jekyll-soopr-seo-tag
