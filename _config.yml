@@ -12,12 +12,11 @@ google_ad_client: ca-pub-2961635126734312
 google_tracking_id: G-MZRT4GPY0G
 
 twitter:
-    username: abhinav # update or delete this
-    card: summary_large_image
+  username: GMocanu98 # update or delete this
+  card: summary_large_image
 
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
 remote_theme: abhinavs/moonwalk
-
 
 theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
@@ -38,10 +37,9 @@ theme_config:
     title_projects: Portfolio
     title_misc_list: Details
     title_blog: Blog
-    title_old_projects: Old Projects
 
 soopr:
-  publish-token: "pt_a37510e65bb7a00c150c3877884ff08e" 
+  publish-token: "pt_a37510e65bb7a00c150c3877884ff08e"
 
 highlighter: rouge
 
